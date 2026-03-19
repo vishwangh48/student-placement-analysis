@@ -1,4 +1,4 @@
-# Student Placement Analysis Dashboard
+# Student-Placement-Excel-Dashboard
 
 ## Project Overview
 
